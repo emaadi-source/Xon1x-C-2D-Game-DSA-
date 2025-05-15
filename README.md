@@ -11,8 +11,9 @@ Welcome to **XON1X**, a feature-packed, data-structures-driven game built entire
 ---
 
 <p align="center">
-  <img src="D:\vs coding\DSA final Project\DSA final Project\images\image.png" width="600" alt="XON1X Gameplay Screenshot">
+  <img src="images/image.png" width="600" alt="XON1X Gameplay Screenshot">
 </p>
+
 
 
 ## 🧠 Features
