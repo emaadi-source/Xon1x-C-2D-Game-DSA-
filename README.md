@@ -10,9 +10,7 @@ Welcome to **XON1X**, a feature-packed, data-structures-driven game built entire
 
 ---
 
-<p align="center">
-  <img src="images/image.png" width="600" alt="XON1X Gameplay Screenshot">
-</p>
+![image alt](https://github.com/emaadi-source/Xon1x-C-2D-Game-DSA-/blob/19c5db9d5c46b321563d90e5fdb68ae5da66ef4f/image.jpg)
 
 
 
