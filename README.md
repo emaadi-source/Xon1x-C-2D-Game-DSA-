@@ -1,4 +1,4 @@
-# 🎮 XON1X – DSA-Based C++ Game Project
+# 🎮 XON1X DSA based C++ Game Project
 
 Welcome to **XON1X**, a feature-packed, data-structures-driven game built entirely in **C++** using **SFML** — with **zero STL** usage! Designed as a semester project under strict constraints, this game demonstrates mastery in algorithms, memory management, and object-oriented design.
 
